@@ -19,6 +19,7 @@
 for (let i = 0; i < 5; i++) {
     console.log(i);
 }
+// invece di maggiore di 5 dobbiamo mettere minore di 5
 
 
 // // ESERCIZIO 2
@@ -38,6 +39,8 @@ function addIfEven(num) {
 }
 
 console.log(addIfEven(4));
+
+// Al posto del solo uguale obbiamo mettere il triplo uguale
 
 
 // // ESERCIZIO 3
